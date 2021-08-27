@@ -10,6 +10,8 @@ namespace Consola
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Aquí tranquilón.");
+            Console.ReadKey();
         }
     }
 }
